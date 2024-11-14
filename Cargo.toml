@@ -1,0 +1,10 @@
+[package]
+name = "tf-init-cli"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "tf-init-cli"
+path = "main.rs"
